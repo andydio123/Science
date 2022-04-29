@@ -13,42 +13,16 @@ optionsdigitalconfiguredidentityMagnificent1284SystemDocumentElement/require/Fun
 }end}setForecast(value) {
     this.getDatabase().ref("forecast").set(value); // found by firebaseSetterCall()
   }
-}
-  <bodysize=98)/ver.patched_V7
-  <bodycolor=#AFEEE>}
-    {{funciton_String.command
-     {{scroll_(down-M/+%Up-O>
-          {{{{controlG-%9])
-           
-           
-           
-  {{{ ButtonToggle:godmode}
-    {{ButtonToggle:Unlimited%_Balance} 
-        {{{ButtonToggle:Fly
- {{{{ButtonToggle:No%_Gravity
-  {{{{ButtonToggel:Noclip
- {{ButtonToggel:One%_hitkill
-  {{{addsource°==%;allteamButton
-     
-       
-      
-        {{{ButtonToggle:Maskill
-  {{{ButtonToggle:Super%_drift
-     
+} configValue_default/XML_html_/function_]
+
+
   
-     {{ButtonToggle:FlyTp
-  {{ButtonToggle:Unlimited%_Ammo
-    {{{{ButtonToggle:InfJefpack
-      {{{{ButtonToggle:NoAds
-{{{ButtonToggle:Unlock%_All%_CategoryMob
- {{ButtonToggle:WalkAir
-   {{{ButtonToggle:Unlimited%_grenade
-  {{{ButtonToggle:Can't%_ %grab%_all
- {{{ButtonToggle:antikick%_antiban
-  {{{{ButtonToggle:UnlockAll
-   {{ButtonToggle:CarGodmode
 
+  <Section> 
+   <required>system.web.configure/database{getDatabase().ref("firebaseSetterCall()function_config}[_"options)>]
+ <config_coding>string.plugin_control1>})"toggle:database_software
 
+  
 {{{XML_<    patch_arm_V7/HtmlPlugin
 LocalMenu"#*!=Options_Graphite)
  {{Toggle:Command&!@#=+*%Commandt/Patched:Os/%*:software:windows11)}×/var +*
